@@ -1,0 +1,1 @@
+void IR_sensor_Init(void);
